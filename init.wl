@@ -1,1 +1,1 @@
-Get["https://github.com/clintg105/SymbolicConvexAnalysis/source/utils.wl"]
+Get["https://github.com/clintg105/SymbolicConvexAnalysis/raw/main/source/utils.wl"]
